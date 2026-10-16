@@ -1,0 +1,16 @@
+{
+  "yunai_meta": "f:/07工程文件/Yunzai/Yunzai/plugins/miao-plugin/resources",
+  "data_repo": "f:/07工程文件/Yunzai/Miao-MBT-MLY",
+  "r_levels": ["R", "R17", "R18"],
+  "zzz_db": {
+    "partner": "f:/07工程文件/Yunzai/Yunzai/plugins/ZZZ-Plugin/resources/map/PartnerId2Data.json",
+    "element": "f:/07工程文件/Yunzai/Yunzai/plugins/ZZZ-Plugin/resources/map/ElementData.json",
+    "avatar_dir": "f:/07工程文件/Yunzai/Yunzai/plugins/ZZZ-Plugin/resources/images/role_circle",
+    "avatar_pattern": "IconRoleCircle{sprite_id}.png"
+  },
+  "games": {
+    "gs":  { "key": "gs",  "label": "原神",            "dir": "genshin",  "meta": "meta-gs" },
+    "sr":  { "key": "sr",  "label": "崩坏：星穹铁道",  "dir": "starrail", "meta": "meta-sr" },
+    "zzz": { "key": "zzz", "label": "绝区零",          "dir": "zzz",      "meta": null }
+  }
+}

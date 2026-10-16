@@ -1,0 +1,3789 @@
+{
+  "generatedAt": "2026-10-17 01:26:58",
+  "games": {
+    "gs": {
+      "label": "原神",
+      "status": "ok",
+      "elements": {
+        "岩": {
+          "5": [
+            {
+              "name": "兹白",
+              "star": 5,
+              "elem": "岩",
+              "levels": {
+                "R": 33,
+                "R17": 10,
+                "R18": 11
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/兹白.webp"
+            },
+            {
+              "name": "千织",
+              "star": 5,
+              "elem": "岩",
+              "levels": {
+                "R": 23,
+                "R17": 20,
+                "R18": 3
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/千织.webp"
+            },
+            {
+              "name": "娜维娅",
+              "star": 5,
+              "elem": "岩",
+              "levels": {
+                "R": 19,
+                "R17": 1,
+                "R18": 3
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/娜维娅.webp"
+            },
+            {
+              "name": "希诺宁",
+              "star": 5,
+              "elem": "岩",
+              "levels": {
+                "R": 5,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/希诺宁.webp"
+            },
+            {
+              "name": "荒泷一斗",
+              "star": 5,
+              "elem": "岩",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/荒泷一斗.webp"
+            },
+            {
+              "name": "莉奈娅",
+              "star": 5,
+              "elem": "岩",
+              "levels": {
+                "R": 13,
+                "R17": 7,
+                "R18": 5
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/莉奈娅.webp"
+            },
+            {
+              "name": "钟离",
+              "star": 5,
+              "elem": "岩",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/钟离.webp"
+            },
+            {
+              "name": "阿贝多",
+              "star": 5,
+              "elem": "岩",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/阿贝多.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "云堇",
+              "star": 4,
+              "elem": "岩",
+              "levels": {
+                "R": 16,
+                "R17": 7,
+                "R18": 5
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/云堇.webp"
+            },
+            {
+              "name": "五郎",
+              "star": 4,
+              "elem": "岩",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/五郎.webp"
+            },
+            {
+              "name": "凝光",
+              "star": 4,
+              "elem": "岩",
+              "levels": {
+                "R": 12,
+                "R17": 4,
+                "R18": 2
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/凝光.webp"
+            },
+            {
+              "name": "卡齐娜",
+              "star": 4,
+              "elem": "岩",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/卡齐娜.webp"
+            },
+            {
+              "name": "叶洛亚",
+              "star": 4,
+              "elem": "岩",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/叶洛亚.webp"
+            },
+            {
+              "name": "诺艾尔",
+              "star": 4,
+              "elem": "岩",
+              "levels": {
+                "R": 25,
+                "R17": 4,
+                "R18": 3
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/诺艾尔.webp"
+            }
+          ]
+        },
+        "火": {
+          "5": [
+            {
+              "name": "可莉",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/可莉.webp"
+            },
+            {
+              "name": "宵宫",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 21,
+                "R17": 16,
+                "R18": 20
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/宵宫.webp"
+            },
+            {
+              "name": "尼可",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 17,
+                "R17": 3,
+                "R18": 13
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/尼可.webp"
+            },
+            {
+              "name": "杜林",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/杜林.webp"
+            },
+            {
+              "name": "林尼",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/林尼.webp"
+            },
+            {
+              "name": "玛薇卡",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 13,
+                "R17": 0,
+                "R18": 1
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/玛薇卡.webp"
+            },
+            {
+              "name": "胡桃",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 30,
+                "R17": 16,
+                "R18": 15
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/胡桃.webp"
+            },
+            {
+              "name": "迪卢克",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/迪卢克.webp"
+            },
+            {
+              "name": "迪希雅",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/迪希雅.webp"
+            },
+            {
+              "name": "阿蕾奇诺",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 27,
+                "R17": 2,
+                "R18": 2
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/阿蕾奇诺.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "嘉明",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/嘉明.webp"
+            },
+            {
+              "name": "夏沃蕾",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 3,
+                "R17": 2,
+                "R18": 0
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/夏沃蕾.webp"
+            },
+            {
+              "name": "奇偶·女性",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/奇偶·女性.webp"
+            },
+            {
+              "name": "奇偶·男性",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/奇偶·男性.webp"
+            },
+            {
+              "name": "安柏",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/安柏.webp"
+            },
+            {
+              "name": "托马",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/托马.webp"
+            },
+            {
+              "name": "烟绯",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 13,
+                "R17": 8,
+                "R18": 3
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/烟绯.webp"
+            },
+            {
+              "name": "班尼特",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/班尼特.webp"
+            },
+            {
+              "name": "辛焱",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/辛焱.webp"
+            },
+            {
+              "name": "香菱",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/香菱.webp"
+            }
+          ]
+        },
+        "水": {
+          "5": [
+            {
+              "name": "哥伦比娅",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 56,
+                "R17": 23,
+                "R18": 10
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/哥伦比娅.webp"
+            },
+            {
+              "name": "夜兰",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 23,
+                "R17": 11,
+                "R18": 2
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/夜兰.webp"
+            },
+            {
+              "name": "妮露",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 24,
+                "R17": 20,
+                "R18": 8
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/妮露.webp"
+            },
+            {
+              "name": "希格雯",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/希格雯.webp"
+            },
+            {
+              "name": "沃雅妮莎",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 19,
+                "R17": 18,
+                "R18": 10
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/沃雅妮莎.webp"
+            },
+            {
+              "name": "玛拉妮",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 5,
+                "R17": 5,
+                "R18": 1
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/玛拉妮.webp"
+            },
+            {
+              "name": "珊瑚宫心海",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 45,
+                "R17": 15,
+                "R18": 5
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/珊瑚宫心海.webp"
+            },
+            {
+              "name": "神里绫人",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/神里绫人.webp"
+            },
+            {
+              "name": "芙宁娜",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 34,
+                "R17": 13,
+                "R18": 22
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/芙宁娜.webp"
+            },
+            {
+              "name": "莫娜",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 47,
+                "R17": 15,
+                "R18": 4
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/莫娜.webp"
+            },
+            {
+              "name": "达达利亚",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/达达利亚.webp"
+            },
+            {
+              "name": "那维莱特",
+              "star": 5,
+              "elem": "水",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/那维莱特.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "坎蒂丝",
+              "star": 4,
+              "elem": "水",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/坎蒂丝.webp"
+            },
+            {
+              "name": "塔利雅",
+              "star": 4,
+              "elem": "水",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/塔利雅.webp"
+            },
+            {
+              "name": "爱诺",
+              "star": 4,
+              "elem": "水",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/爱诺.webp"
+            },
+            {
+              "name": "芭芭拉",
+              "star": 4,
+              "elem": "水",
+              "levels": {
+                "R": 36,
+                "R17": 21,
+                "R18": 15
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/芭芭拉.webp"
+            },
+            {
+              "name": "行秋",
+              "star": 4,
+              "elem": "水",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/行秋.webp"
+            }
+          ]
+        },
+        "风": {
+          "5": [
+            {
+              "name": "恰斯卡",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 3,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/恰斯卡.webp"
+            },
+            {
+              "name": "枫原万叶",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/枫原万叶.webp"
+            },
+            {
+              "name": "梦见月瑞希",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 16,
+                "R17": 9,
+                "R18": 4
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/梦见月瑞希.webp"
+            },
+            {
+              "name": "法尔伽",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/法尔伽.webp"
+            },
+            {
+              "name": "流浪者",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/流浪者.webp"
+            },
+            {
+              "name": "温迪",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/温迪.webp"
+            },
+            {
+              "name": "琴",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/琴.webp"
+            },
+            {
+              "name": "薇斯纳",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 18,
+                "R17": 15,
+                "R18": 3
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/薇斯纳.webp"
+            },
+            {
+              "name": "闲云",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 13,
+                "R17": 3,
+                "R18": 0
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/闲云.webp"
+            },
+            {
+              "name": "魈",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/魈.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "伊法",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/伊法.webp"
+            },
+            {
+              "name": "布伦妮",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/布伦妮.webp"
+            },
+            {
+              "name": "早柚",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/早柚.webp"
+            },
+            {
+              "name": "珐露珊",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 16,
+                "R17": 8,
+                "R18": 3
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/珐露珊.webp"
+            },
+            {
+              "name": "琳妮特",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 20,
+                "R17": 8,
+                "R18": 0
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/琳妮特.webp"
+            },
+            {
+              "name": "砂糖",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 7,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/砂糖.webp"
+            },
+            {
+              "name": "蓝砚",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 26,
+                "R17": 3,
+                "R18": 2
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/蓝砚.webp"
+            },
+            {
+              "name": "雅珂达",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/雅珂达.webp"
+            },
+            {
+              "name": "鹿野院平藏",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/鹿野院平藏.webp"
+            }
+          ]
+        },
+        "雷": {
+          "5": [
+            {
+              "name": "伊涅芙",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 5,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/伊涅芙.webp"
+            },
+            {
+              "name": "克洛琳德",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 23,
+                "R17": 3,
+                "R18": 8
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/克洛琳德.webp"
+            },
+            {
+              "name": "八重神子",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 20,
+                "R17": 21,
+                "R18": 22
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/八重神子.webp"
+            },
+            {
+              "name": "刻晴",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 80,
+                "R17": 93,
+                "R18": 105
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/刻晴.webp"
+            },
+            {
+              "name": "瓦雷莎",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 8,
+                "R17": 6,
+                "R18": 1
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/瓦雷莎.webp"
+            },
+            {
+              "name": "米提亚",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/米提亚.webp"
+            },
+            {
+              "name": "菲林斯",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/菲林斯.webp"
+            },
+            {
+              "name": "赛诺",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/赛诺.webp"
+            },
+            {
+              "name": "雷电将军",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 35,
+                "R17": 22,
+                "R18": 24
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/雷电将军.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "丽莎",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/丽莎.webp"
+            },
+            {
+              "name": "久岐忍",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/久岐忍.webp"
+            },
+            {
+              "name": "九条裟罗",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/九条裟罗.webp"
+            },
+            {
+              "name": "伊安珊",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/伊安珊.webp"
+            },
+            {
+              "name": "北斗",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/北斗.webp"
+            },
+            {
+              "name": "多莉",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/多莉.webp"
+            },
+            {
+              "name": "欧洛伦",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/欧洛伦.webp"
+            },
+            {
+              "name": "瓦列里",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/瓦列里.webp"
+            },
+            {
+              "name": "菲谢尔",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/菲谢尔.webp"
+            },
+            {
+              "name": "赛索斯",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/赛索斯.webp"
+            },
+            {
+              "name": "阿罗夏",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/阿罗夏.webp"
+            },
+            {
+              "name": "雷泽",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/雷泽.webp"
+            }
+          ]
+        },
+        "冰": {
+          "5": [
+            {
+              "name": "七七",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/七七.webp"
+            },
+            {
+              "name": "丝柯克",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 38,
+                "R17": 20,
+                "R18": 16
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/丝柯克.webp"
+            },
+            {
+              "name": "优菈",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 34,
+                "R17": 11,
+                "R18": 10
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/优菈.webp"
+            },
+            {
+              "name": "埃洛伊",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/埃洛伊.webp"
+            },
+            {
+              "name": "奥黛塔",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 16,
+                "R17": 18,
+                "R18": 22
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/奥黛塔.webp"
+            },
+            {
+              "name": "桑多涅",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 48,
+                "R17": 27,
+                "R18": 29
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/桑多涅.webp"
+            },
+            {
+              "name": "洛恩",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/洛恩.webp"
+            },
+            {
+              "name": "爱可菲",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 24,
+                "R17": 40,
+                "R18": 20
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/爱可菲.webp"
+            },
+            {
+              "name": "甘雨",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 22,
+                "R17": 39,
+                "R18": 25
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/甘雨.webp"
+            },
+            {
+              "name": "申鹤",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/申鹤.webp"
+            },
+            {
+              "name": "神里绫华",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 58,
+                "R17": 73,
+                "R18": 41
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/神里绫华.webp"
+            },
+            {
+              "name": "茜特菈莉",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 107,
+                "R17": 66,
+                "R18": 71
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/茜特菈莉.webp"
+            },
+            {
+              "name": "莱欧斯利",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/莱欧斯利.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "凯亚",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/凯亚.webp"
+            },
+            {
+              "name": "夏洛蒂",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/夏洛蒂.webp"
+            },
+            {
+              "name": "米卡",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/米卡.webp"
+            },
+            {
+              "name": "罗莎莉亚",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/罗莎莉亚.webp"
+            },
+            {
+              "name": "莱依拉",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/莱依拉.webp"
+            },
+            {
+              "name": "菲米尼",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/菲米尼.webp"
+            },
+            {
+              "name": "迪奥娜",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/迪奥娜.webp"
+            },
+            {
+              "name": "重云",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/重云.webp"
+            }
+          ]
+        },
+        "草": {
+          "5": [
+            {
+              "name": "基尼奇",
+              "star": 5,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/基尼奇.webp"
+            },
+            {
+              "name": "奈芙尔",
+              "star": 5,
+              "elem": "草",
+              "levels": {
+                "R": 44,
+                "R17": 63,
+                "R18": 21
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/奈芙尔.webp"
+            },
+            {
+              "name": "提纳里",
+              "star": 5,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/提纳里.webp"
+            },
+            {
+              "name": "白术",
+              "star": 5,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/白术.webp"
+            },
+            {
+              "name": "纳西妲",
+              "star": 5,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/纳西妲.webp"
+            },
+            {
+              "name": "艾尔海森",
+              "star": 5,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/艾尔海森.webp"
+            },
+            {
+              "name": "艾梅莉埃",
+              "star": 5,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/艾梅莉埃.webp"
+            },
+            {
+              "name": "菈乌玛",
+              "star": 5,
+              "elem": "草",
+              "levels": {
+                "R": 60,
+                "R17": 40,
+                "R18": 9
+              },
+              "added": true,
+              "avatar": "assets/avatars/gs/菈乌玛.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "卡维",
+              "star": 4,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/卡维.webp"
+            },
+            {
+              "name": "柯莱",
+              "star": 4,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/柯莱.webp"
+            },
+            {
+              "name": "瑶瑶",
+              "star": 4,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/瑶瑶.webp"
+            },
+            {
+              "name": "绮良良",
+              "star": 4,
+              "elem": "草",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/绮良良.webp"
+            }
+          ]
+        },
+        "旅行者": {
+          "5": [
+            {
+              "name": "旅行者",
+              "star": 5,
+              "elem": "旅行者",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/旅行者.webp"
+            },
+            {
+              "name": "空",
+              "star": 5,
+              "elem": "旅行者",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/空.webp"
+            },
+            {
+              "name": "荧",
+              "star": 5,
+              "elem": "旅行者",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/gs/荧.webp"
+            }
+          ]
+        }
+      },
+      "elemIcons": {
+        "冰": "assets/elem/gs/cryo.png",
+        "雷": "assets/elem/gs/electro.png",
+        "岩": "assets/elem/gs/geo.png",
+        "风": "assets/elem/gs/anemo.png",
+        "草": "assets/elem/gs/dendro.png",
+        "火": "assets/elem/gs/pyro.png",
+        "水": "assets/elem/gs/hydro.png",
+        "旅行者": "assets/elem/gs/multi.png"
+      },
+      "total": 127,
+      "added": 48,
+      "missing": 79,
+      "extra": 0
+    },
+    "sr": {
+      "label": "崩坏：星穹铁道",
+      "status": "ok",
+      "elements": {
+        "火": {
+          "5": [
+            {
+              "name": "千冶•刃",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/千冶•刃.webp"
+            },
+            {
+              "name": "大丽花",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/大丽花.webp"
+            },
+            {
+              "name": "姬子",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/姬子.webp"
+            },
+            {
+              "name": "姬子•启行",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/姬子•启行.webp"
+            },
+            {
+              "name": "忘归人",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/忘归人.webp"
+            },
+            {
+              "name": "托帕&账账",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/托帕&账账.webp"
+            },
+            {
+              "name": "星·存护",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/星·存护.webp"
+            },
+            {
+              "name": "椒丘",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/椒丘.webp"
+            },
+            {
+              "name": "流萤",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/流萤.webp"
+            },
+            {
+              "name": "流萤Pro",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/流萤Pro.webp"
+            },
+            {
+              "name": "火花",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/火花.webp"
+            },
+            {
+              "name": "灵砂",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/灵砂.webp"
+            },
+            {
+              "name": "穹·存护",
+              "star": 5,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/穹·存护.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "加拉赫",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/加拉赫.webp"
+            },
+            {
+              "name": "桂乃芬",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/桂乃芬.webp"
+            },
+            {
+              "name": "艾丝妲",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/艾丝妲.webp"
+            },
+            {
+              "name": "虎克",
+              "star": 4,
+              "elem": "火",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/虎克.webp"
+            }
+          ]
+        },
+        "风": {
+          "5": [
+            {
+              "name": "Saber",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/Saber.webp"
+            },
+            {
+              "name": "刃",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/刃.webp"
+            },
+            {
+              "name": "刃Pro",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/刃Pro.webp"
+            },
+            {
+              "name": "刻律德菈",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/刻律德菈.webp"
+            },
+            {
+              "name": "布洛妮娅",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/布洛妮娅.webp"
+            },
+            {
+              "name": "知更鸟•晴歌",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/知更鸟•晴歌.webp"
+            },
+            {
+              "name": "藿藿",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/藿藿.webp"
+            },
+            {
+              "name": "藿藿Pro",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/藿藿Pro.webp"
+            },
+            {
+              "name": "那刻夏",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/那刻夏.webp"
+            },
+            {
+              "name": "风堇",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/风堇.webp"
+            },
+            {
+              "name": "飞霄",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/飞霄.webp"
+            },
+            {
+              "name": "黑天鹅",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/黑天鹅.webp"
+            },
+            {
+              "name": "黑天鹅Pro",
+              "star": 5,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/黑天鹅Pro.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "丹恒",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/丹恒.webp"
+            },
+            {
+              "name": "桑博",
+              "star": 4,
+              "elem": "风",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/桑博.webp"
+            }
+          ]
+        },
+        "雷": {
+          "5": [
+            {
+              "name": "不死途",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/不死途.webp"
+            },
+            {
+              "name": "卡芙卡",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/卡芙卡.webp"
+            },
+            {
+              "name": "卡芙卡Pro",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/卡芙卡Pro.webp"
+            },
+            {
+              "name": "吉尔伽美什",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/吉尔伽美什.webp"
+            },
+            {
+              "name": "星·同谐",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/星·同谐.webp"
+            },
+            {
+              "name": "景元",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/景元.webp"
+            },
+            {
+              "name": "白露",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/白露.webp"
+            },
+            {
+              "name": "穹·欢愉",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/穹·欢愉.webp"
+            },
+            {
+              "name": "阿格莱雅",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/阿格莱雅.webp"
+            },
+            {
+              "name": "黄泉",
+              "star": 5,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/黄泉.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "停云",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/停云.webp"
+            },
+            {
+              "name": "希露瓦",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/希露瓦.webp"
+            },
+            {
+              "name": "貊泽",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/貊泽.webp"
+            },
+            {
+              "name": "阿兰",
+              "star": 4,
+              "elem": "雷",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/阿兰.webp"
+            }
+          ]
+        },
+        "冰": {
+          "5": [
+            {
+              "name": "大黑塔",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/大黑塔.webp"
+            },
+            {
+              "name": "彦卿",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/彦卿.webp"
+            },
+            {
+              "name": "昔涟",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/昔涟.webp"
+            },
+            {
+              "name": "星·记忆",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/星·记忆.webp"
+            },
+            {
+              "name": "杰帕德",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/杰帕德.webp"
+            },
+            {
+              "name": "真珠",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/真珠.webp"
+            },
+            {
+              "name": "穹·记忆",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/穹·记忆.webp"
+            },
+            {
+              "name": "镜流",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/镜流.webp"
+            },
+            {
+              "name": "镜流Pro",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/镜流Pro.webp"
+            },
+            {
+              "name": "长夜月",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/长夜月.webp"
+            },
+            {
+              "name": "阮•梅",
+              "star": 5,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/阮•梅.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "三月七",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/三月七.webp"
+            },
+            {
+              "name": "佩拉",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/佩拉.webp"
+            },
+            {
+              "name": "米沙",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/米沙.webp"
+            },
+            {
+              "name": "黑塔",
+              "star": 4,
+              "elem": "冰",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/黑塔.webp"
+            }
+          ]
+        },
+        "物理": {
+          "5": [
+            {
+              "name": "丹恒•腾荒",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/丹恒•腾荒.webp"
+            },
+            {
+              "name": "云璃",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/云璃.webp"
+            },
+            {
+              "name": "克拉拉",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/克拉拉.webp"
+            },
+            {
+              "name": "星·毁灭",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/星·毁灭.webp"
+            },
+            {
+              "name": "波提欧",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/波提欧.webp"
+            },
+            {
+              "name": "海瑟音",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/海瑟音.webp"
+            },
+            {
+              "name": "爻光",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/爻光.webp"
+            },
+            {
+              "name": "白厄",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/白厄.webp"
+            },
+            {
+              "name": "知更鸟",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/知更鸟.webp"
+            },
+            {
+              "name": "穹·毁灭",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/穹·毁灭.webp"
+            },
+            {
+              "name": "绯英",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/绯英.webp"
+            },
+            {
+              "name": "银枝",
+              "star": 5,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/银枝.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "卢卡",
+              "star": 4,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/卢卡.webp"
+            },
+            {
+              "name": "娜塔莎",
+              "star": 4,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/娜塔莎.webp"
+            },
+            {
+              "name": "寒鸦",
+              "star": 4,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/寒鸦.webp"
+            },
+            {
+              "name": "素裳",
+              "star": 4,
+              "elem": "物理",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/素裳.webp"
+            }
+          ]
+        },
+        "量子": {
+          "5": [
+            {
+              "name": "Archer",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/Archer.webp"
+            },
+            {
+              "name": "希儿",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/希儿.webp"
+            },
+            {
+              "name": "希儿Pro",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/希儿Pro.webp"
+            },
+            {
+              "name": "砂金•戏浪",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/砂金•戏浪.webp"
+            },
+            {
+              "name": "符玄",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/符玄.webp"
+            },
+            {
+              "name": "缇宝",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/缇宝.webp"
+            },
+            {
+              "name": "翡翠",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/翡翠.webp"
+            },
+            {
+              "name": "花火",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/花火.webp"
+            },
+            {
+              "name": "花火Pro",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/花火Pro.webp"
+            },
+            {
+              "name": "赛飞儿",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/赛飞儿.webp"
+            },
+            {
+              "name": "远坂凛",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/远坂凛.webp"
+            },
+            {
+              "name": "遐蝶",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/遐蝶.webp"
+            },
+            {
+              "name": "银狼",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/银狼.webp"
+            },
+            {
+              "name": "银狼Pro",
+              "star": 5,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/银狼Pro.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "玲可",
+              "star": 4,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/玲可.webp"
+            },
+            {
+              "name": "雪衣",
+              "star": 4,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/雪衣.webp"
+            },
+            {
+              "name": "青雀",
+              "star": 4,
+              "elem": "量子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/青雀.webp"
+            }
+          ]
+        },
+        "虚数": {
+          "5": [
+            {
+              "name": "万敌",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/万敌.webp"
+            },
+            {
+              "name": "丹恒•饮月",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/丹恒•饮月.webp"
+            },
+            {
+              "name": "乱破",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/乱破.webp"
+            },
+            {
+              "name": "星·同谐",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/星·同谐.webp"
+            },
+            {
+              "name": "星期日",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/星期日.webp"
+            },
+            {
+              "name": "瓦尔特",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/瓦尔特.webp"
+            },
+            {
+              "name": "瓦尔特Pro",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/瓦尔特Pro.webp"
+            },
+            {
+              "name": "真理医生",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/真理医生.webp"
+            },
+            {
+              "name": "砂金",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/砂金.webp"
+            },
+            {
+              "name": "穹·同谐",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/穹·同谐.webp"
+            },
+            {
+              "name": "罗刹",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/罗刹.webp"
+            },
+            {
+              "name": "银狼LV.999",
+              "star": 5,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/银狼LV.999.webp"
+            }
+          ],
+          "4": [
+            {
+              "name": "三月七·巡猎",
+              "star": 4,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/三月七·巡猎.webp"
+            },
+            {
+              "name": "驭空",
+              "star": 4,
+              "elem": "虚数",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/sr/驭空.webp"
+            }
+          ]
+        }
+      },
+      "elemIcons": {
+        "量子": "assets/elem/sr/elem-auantum.webp",
+        "风": "assets/elem/sr/elem-wind.webp",
+        "虚数": "assets/elem/sr/elem-imaginary.webp",
+        "冰": "assets/elem/sr/elm-ice.webp",
+        "雷": "assets/elem/sr/elem-elec.webp",
+        "物理": "assets/elem/sr/elem-phy.webp",
+        "火": "assets/elem/sr/elem-fire.webp"
+      },
+      "total": 108,
+      "added": 0,
+      "missing": 108,
+      "extra": 0
+    },
+    "zzz": {
+      "label": "绝区零",
+      "status": "ok",
+      "elements": {
+        "火": {
+          "5": [
+            {
+              "name": "「11号」",
+              "star": 5,
+              "elem": "火",
+              "camp": "新艾利都防卫军",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/「11号」.png"
+            },
+            {
+              "name": "伊芙琳",
+              "star": 5,
+              "elem": "火",
+              "camp": "天琴座",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/伊芙琳.png"
+            },
+            {
+              "name": "奥菲丝&「鬼火」",
+              "star": 5,
+              "elem": "火",
+              "camp": "新艾利都防卫军",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/奥菲丝&「鬼火」.png"
+            },
+            {
+              "name": "柏妮思",
+              "star": 5,
+              "elem": "火",
+              "camp": "卡吕冬之子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/柏妮思.png"
+            },
+            {
+              "name": "橘福福",
+              "star": 5,
+              "elem": "火",
+              "camp": "云岿山",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/橘福福.png"
+            },
+            {
+              "name": "珂蕾妲",
+              "star": 5,
+              "elem": "火",
+              "camp": "白祇重工",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/珂蕾妲.png"
+            },
+            {
+              "name": "般岳",
+              "star": 5,
+              "elem": "火",
+              "camp": "坎卜斯黑枝",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/般岳.png"
+            },
+            {
+              "name": "莱特",
+              "star": 5,
+              "elem": "火",
+              "camp": "卡吕冬之子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/莱特.png"
+            },
+            {
+              "name": "诺姆",
+              "star": 5,
+              "elem": "火",
+              "camp": "罗斯凯利法",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/诺姆.png"
+            }
+          ],
+          "4": [
+            {
+              "name": "本",
+              "star": 4,
+              "elem": "火",
+              "camp": "白祇重工",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/本.png"
+            },
+            {
+              "name": "真斗",
+              "star": 4,
+              "elem": "火",
+              "camp": "怪啖屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/真斗.png"
+            },
+            {
+              "name": "露西",
+              "star": 4,
+              "elem": "火",
+              "camp": "卡吕冬之子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/露西.png"
+            }
+          ]
+        },
+        "风": {
+          "5": [
+            {
+              "name": "洛克茜",
+              "star": 5,
+              "elem": "风",
+              "camp": "罗斯凯利法",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/洛克茜.png"
+            },
+            {
+              "name": "维琳娜",
+              "star": 5,
+              "elem": "风",
+              "camp": "罗斯凯利法",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/维琳娜.png"
+            }
+          ]
+        },
+        "冰": {
+          "5": [
+            {
+              "name": "伊德海莉",
+              "star": 5,
+              "elem": "冰",
+              "camp": "怪啖屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/伊德海莉.png"
+            },
+            {
+              "name": "希格莉德",
+              "star": 5,
+              "elem": "冰",
+              "camp": "罗斯凯利法",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/希格莉德.png"
+            },
+            {
+              "name": "普罗米娅",
+              "star": 5,
+              "elem": "冰",
+              "camp": "坎卜斯黑枝",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/普罗米娅.png"
+            },
+            {
+              "name": "照",
+              "star": 5,
+              "elem": "冰",
+              "camp": "坎卜斯黑枝",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/照.png"
+            },
+            {
+              "name": "艾莲",
+              "star": 5,
+              "elem": "冰",
+              "camp": "维多利亚家政",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/艾莲.png"
+            },
+            {
+              "name": "莱卡恩",
+              "star": 5,
+              "elem": "冰",
+              "camp": "维多利亚家政",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/莱卡恩.png"
+            },
+            {
+              "name": "雅",
+              "star": 5,
+              "elem": "冰",
+              "camp": "对空洞特别行动部第六课",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/雅.png"
+            },
+            {
+              "name": "雨果",
+              "star": 5,
+              "elem": "冰",
+              "camp": "反舌鸟",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/雨果.png"
+            }
+          ],
+          "4": [
+            {
+              "name": "苍角",
+              "star": 4,
+              "elem": "冰",
+              "camp": "对空洞特别行动部第六课",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/苍角.png"
+            }
+          ]
+        },
+        "物理": {
+          "5": [
+            {
+              "name": "凯撒",
+              "star": 5,
+              "elem": "物理",
+              "camp": "卡吕冬之子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/凯撒.png"
+            },
+            {
+              "name": "千夏",
+              "star": 5,
+              "elem": "物理",
+              "camp": "妄想天使",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/千夏.png"
+            },
+            {
+              "name": "叶瞬光",
+              "star": 5,
+              "elem": "物理",
+              "camp": "云岿山",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/叶瞬光.png"
+            },
+            {
+              "name": "星徽·比利",
+              "star": 5,
+              "elem": "物理",
+              "camp": "狡兔屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/星徽·比利.png"
+            },
+            {
+              "name": "柚叶",
+              "star": 5,
+              "elem": "物理",
+              "camp": "怪啖屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/柚叶.png"
+            },
+            {
+              "name": "爱丽丝",
+              "star": 5,
+              "elem": "物理",
+              "camp": "怪啖屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/爱丽丝.png"
+            },
+            {
+              "name": "猫又",
+              "star": 5,
+              "elem": "物理",
+              "camp": "狡兔屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/猫又.png"
+            },
+            {
+              "name": "琉音",
+              "star": 5,
+              "elem": "物理",
+              "camp": "坎卜斯黑枝",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/琉音.png"
+            },
+            {
+              "name": "简",
+              "star": 5,
+              "elem": "物理",
+              "camp": "新艾利都治安局",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/简.png"
+            }
+          ],
+          "4": [
+            {
+              "name": "可琳",
+              "star": 4,
+              "elem": "物理",
+              "camp": "维多利亚家政",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/可琳.png"
+            },
+            {
+              "name": "比利",
+              "star": 4,
+              "elem": "物理",
+              "camp": "狡兔屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/比利.png"
+            },
+            {
+              "name": "波可娜",
+              "star": 4,
+              "elem": "物理",
+              "camp": "卡吕冬之子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/波可娜.png"
+            },
+            {
+              "name": "派派",
+              "star": 4,
+              "elem": "物理",
+              "camp": "卡吕冬之子",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/派派.png"
+            },
+            {
+              "name": "潘引壶",
+              "star": 4,
+              "elem": "物理",
+              "camp": "云岿山",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/潘引壶.png"
+            }
+          ]
+        },
+        "电": {
+          "5": [
+            {
+              "name": "「席德」",
+              "star": 5,
+              "elem": "电",
+              "camp": "新艾利都防卫军",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/「席德」.png"
+            },
+            {
+              "name": "「扳机」",
+              "star": 5,
+              "elem": "电",
+              "camp": "新艾利都防卫军",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/「扳机」.png"
+            },
+            {
+              "name": "丽娜",
+              "star": 5,
+              "elem": "电",
+              "camp": "维多利亚家政",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/丽娜.png"
+            },
+            {
+              "name": "克拉蕾",
+              "star": 5,
+              "elem": "电",
+              "camp": "罗斯凯利法",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/克拉蕾.png"
+            },
+            {
+              "name": "希希芙",
+              "star": 5,
+              "elem": "电",
+              "camp": "新艾利都治安局",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/希希芙.png"
+            },
+            {
+              "name": "悠真",
+              "star": 5,
+              "elem": "电",
+              "camp": "对空洞特别行动部第六课",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/悠真.png"
+            },
+            {
+              "name": "柳",
+              "star": 5,
+              "elem": "电",
+              "camp": "对空洞特别行动部第六课",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/柳.png"
+            },
+            {
+              "name": "格莉丝",
+              "star": 5,
+              "elem": "电",
+              "camp": "白祇重工",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/格莉丝.png"
+            },
+            {
+              "name": "零号·安比",
+              "star": 5,
+              "elem": "电",
+              "camp": "新艾利都防卫军",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/零号·安比.png"
+            },
+            {
+              "name": "青衣",
+              "star": 5,
+              "elem": "电",
+              "camp": "新艾利都治安局",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/青衣.png"
+            }
+          ],
+          "4": [
+            {
+              "name": "安东",
+              "star": 4,
+              "elem": "电",
+              "camp": "白祇重工",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/安东.png"
+            },
+            {
+              "name": "安比",
+              "star": 4,
+              "elem": "电",
+              "camp": "狡兔屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/安比.png"
+            },
+            {
+              "name": "赛斯",
+              "star": 4,
+              "elem": "电",
+              "camp": "新艾利都治安局",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/赛斯.png"
+            }
+          ]
+        },
+        "以太": {
+          "5": [
+            {
+              "name": "仪玄",
+              "star": 5,
+              "elem": "以太",
+              "camp": "云岿山",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/仪玄.png"
+            },
+            {
+              "name": "佩洛伊斯",
+              "star": 5,
+              "elem": "以太",
+              "camp": "法厄同",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/佩洛伊斯.png"
+            },
+            {
+              "name": "南宫羽",
+              "star": 5,
+              "elem": "以太",
+              "camp": "妄想天使",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/南宫羽.png"
+            },
+            {
+              "name": "卢西娅",
+              "star": 5,
+              "elem": "以太",
+              "camp": "怪啖屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/卢西娅.png"
+            },
+            {
+              "name": "朱鸢",
+              "star": 5,
+              "elem": "以太",
+              "camp": "新艾利都治安局",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/朱鸢.png"
+            },
+            {
+              "name": "爱芮",
+              "star": 5,
+              "elem": "以太",
+              "camp": "妄想天使",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/爱芮.png"
+            },
+            {
+              "name": "耀嘉音",
+              "star": 5,
+              "elem": "以太",
+              "camp": "天琴座",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/耀嘉音.png"
+            },
+            {
+              "name": "薇薇安",
+              "star": 5,
+              "elem": "以太",
+              "camp": "反舌鸟",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/薇薇安.png"
+            }
+          ],
+          "4": [
+            {
+              "name": "妮可",
+              "star": 4,
+              "elem": "以太",
+              "camp": "狡兔屋",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/妮可.png"
+            }
+          ]
+        },
+        "流明": {
+          "5": [
+            {
+              "name": "蕾米埃尔",
+              "star": 5,
+              "elem": "流明",
+              "camp": "达识结社",
+              "levels": {
+                "R": 0,
+                "R17": 0,
+                "R18": 0
+              },
+              "added": false,
+              "avatar": "assets/avatars/zzz/蕾米埃尔.png"
+            }
+          ]
+        }
+      },
+      "elemIcons": {
+        "电": "assets/elem/zzz/Electric.png",
+        "物理": "assets/elem/zzz/Physical.png",
+        "以太": "assets/elem/zzz/Ether.png",
+        "火": "assets/elem/zzz/Fire.png",
+        "冰": "assets/elem/zzz/Ice.png",
+        "风": "assets/elem/zzz/Wind.png",
+        "流明": "assets/elem/zzz/Lumiflux.png"
+      },
+      "total": 60,
+      "added": 0,
+      "missing": 60,
+      "extra": 0
+    }
+  }
+}

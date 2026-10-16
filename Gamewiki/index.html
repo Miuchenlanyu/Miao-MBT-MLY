@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Miao-MBT-MLY 角色跟进</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="title">
+      <h1>Miao-MBT-MLY · 角色跟进</h1>
+      <span class="sub">实时比对 Yunzai 角色名单 与 数据仓库 normal-character 目录</span>
+    </div>
+    <div class="actions">
+      <button id="refreshBtn" class="btn">刷新</button>
+      <span id="genTime" class="gentime"></span>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs"></nav>
+
+  <section class="controls">
+    <input id="search" type="text" placeholder="搜索角色名…" />
+    <label class="chk"><input id="onlyMissing" type="checkbox" /> 只看未添加</label>
+    <div class="starfilter" id="starFilter"></div>
+    <span id="summary" class="summary"></span>
+  </section>
+
+  <main id="content" class="content"></main>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-box">
+      <div class="modal-head"><span id="modalTitle"></span><button id="modalClose" class="btn">×</button></div>
+      <div id="modalBody" class="modal-body"></div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
